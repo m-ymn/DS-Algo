@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582876084 source:d:\coding\ds\debug\leet1.c
+	<stdio.h>
+	<stdbool.h>
+

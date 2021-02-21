@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1566222150 source:c:\users\admin\desktop\ds\debug\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566388739 source:c:\users\admin\desktop\ds\debug\logic_gates in seq.c
+	<stdio.h>
+	<stdlib.h>
+
+1582710429 source:c:\users\admin\desktop\ds\debug\teststruct.c
+	<stdio.h>
+
+1582714566 source:c:\users\admin\desktop\ds\debug\dynamic_string.c
+	<stdio.h>
+	<stdint.h>
+
+1582873170 source:c:\users\admin\desktop\ds\debug\leet1.c
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1565070204 source:c:\users\admin\desktop\ds\exercise\rev_str.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1565074248 source:c:\users\admin\desktop\ds\exercise\minmx.c
+	<stdio.h>
+	<conio.h>
+
+1565094617 source:c:\users\admin\desktop\ds\exercise\undoredo.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1565175004 source:c:\users\admin\desktop\ds\exercise\q8_ds_scheduler.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1565244483 source:c:\users\admin\desktop\ds\exercise\q1_ds_rev_str.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1566212437 source:c:\users\admin\desktop\ds\exercise\logix.c
+	<stdio.h>
+	<conio.h>
+
+1566217541 source:c:\users\admin\desktop\ds\exercise\unit.c
+	<stdio.h>
+	<conio.h>
+
+1566387066 source:c:\users\admin\desktop\ds\exercise\rev_w_stk.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1590140910 source:d:\coding\ds\exercise\well.c
+	<stdio.h>
+	<stdint.h>
+
+1613580442 source:d:\coding\ds\exercise\test.c
+	<stdio.h>
+	<stdint.h>
+	<math.h>
+

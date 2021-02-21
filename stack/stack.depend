@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582207442 source:c:\users\admin\desktop\ds\stack\stk.h
+
+1582283244 source:c:\users\admin\desktop\ds\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<strings.h>
+
+1582207442 c:\users\admin\desktop\ds\stack\stk.h
+
+1582281255 source:c:\users\admin\desktop\ds\stack\stk1.h
+

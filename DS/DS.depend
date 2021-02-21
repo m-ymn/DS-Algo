@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1564046013 source:c:\users\admin\desktop\ds\ds\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1564145370 source:c:\users\admin\desktop\ds\ds\linklist.c
+	<stdio.h>
+	<stdlib.h>
+
+1564135964 source:c:\users\admin\desktop\ds\ds\stack u link lst.c
+	<stdio.h>
+	<stdlib.h>
+
+1564374881 source:c:\users\admin\desktop\ds\ds\strings w linklist stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1564385694 source:c:\users\admin\desktop\ds\ds\doubly ll.c
+	<stdio.h>
+	<stdlib.h>
+
+1564485290 source:c:\users\admin\desktop\ds\ds\bst.c
+	<stdio.h>
+	<stdlib.h>
+
+1564557736 source:c:\users\admin\desktop\ds\ds\recursive.c
+	<stdio.h>
+	<stdlib.h>
+
+1565082875 source:c:\users\admin\desktop\ds\ds\circular qu.c
+	<stdio.h>
+	<conio.h>
+
+1565164443 source:c:\users\admin\desktop\ds\ds\p_qu.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1574145806 source:c:\users\admin\desktop\ds\ds\fxn_pntr.c
+	<stdio.h>
+	<stdint.h>
+
+1577441066 source:c:\users\admin\desktop\ds\ds\union.c
+	<stdio.h>
+	<stdint.h>
+
+1581680870 source:c:\users\admin\desktop\ds\ds\ring buffer.c
+	<stdio.h>
+	<stdint.h>
+

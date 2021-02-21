@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582790367 source:c:\users\admin\desktop\ds\arr_rev\main.c
+	<stdio.h>
+	<stdint-gcc.h>
+
